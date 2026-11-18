@@ -4,7 +4,9 @@ A simple **Tasks** CRUD app with a production-ready setup: npm-workspaces monore
 strict TypeScript, validated config, migrations, security middleware, structured logging,
 tests, linting, Docker and CI.
 
-> The step-by-step build plan and architecture decisions are in [PLAN.md](PLAN.md).
+> 📚 **Full documentation:** [docs/](docs/README.md) explains architecture, every technology,
+> every file, and how to build a project like this from zero.
+> The original phased build plan is in [PLAN.md](PLAN.md).
 
 ## Stack
 
